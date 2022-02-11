@@ -17,9 +17,11 @@ type node --version in command prompt
 
 function 
 
-![image](https://user-images.githubusercontent.com/60593990/153682738-58480445-44f0-4f84-81cf-23818d229dfe.png)
+![image](https://user-images.githubusercontent.com/60593990/153682961-5c5c4f9a-e445-470f-b6c2-e49b1b5b82fe.png)
+
 
 server setup 
+
 ![image](https://user-images.githubusercontent.com/60593990/153682773-1ae791c8-3c43-4d64-848b-1adaf2516593.png)
 
 
